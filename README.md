@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RikyOp
+- 👀 I’m interested in  aprender programação;
+- 🌱 I’m currently learning  JS e  Python;
+- 💞️ Trabalho sozinho;
+- 
